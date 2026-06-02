@@ -189,7 +189,7 @@
 <div align="center">
 
 <a href="mailto:ssartale6@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="shaikyasin226@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="" target="_blank">
